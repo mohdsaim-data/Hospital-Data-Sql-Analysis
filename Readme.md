@@ -438,20 +438,6 @@ This project can help answer questions such as:
 - **CSV Dataset**
 - **GitHub**
 
----
-
-# 📂 Project Structure
-
-```text
-Hospital-Data-Analysis/
-│
-├── Hospital_Dataset.csv
-├── hospital_data.sql
-└── README.md
-```
-
----
-
 # 🚀 Conclusion
 
 This project demonstrates how SQL can be used to analyze hospital data and extract useful business insights.
